@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+display: flex;
+flex-direction: column;
+
+}
+
+.container-in {
+  background-position: center;
+  display: flex;
+  background-size: cover;
+  background-color: #0D0D0D;
+border: 1px solid black;
+width: 100%;
+height: 800px;
+}
+.conta-acadamy {
+  display: flex;
+    /* border: 1px solid rgb(255, 255, 255); */
+    width: 2000px;
+    height: 50px;
+    font-size: 15px;
+    margin-top: 3%;
+
+
+
+
+
+}
+.conta-p {
+  flex-direction: column;
+
+/* border: 1px solid red; */
+width: 20%;
+background-image: url(./asstes/45\ 1.png);
+background-repeat: no-repeat;
+margin-left: 2%;
+}
+.conta-right {
+  /* border: 1px solid red; */
+  width: 300%;
+  height: 100%;
+  margin-left: 170%;
+  color: aliceblue;
+  
+}
+.conta-right-text {
+  display: flex;
+  background-size: cover;
+  /* border: 1px solid honeydew; */
+  width: 100%;
+   font-size: 15px;
+  line-height:22px;
+  position: absolute;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  justify-content: space-evenly;
+  padding:0 35%;
+   margin-top: 20px;
+
+
+ 
+  
+  
+}
+
+
+
+  
+
+
+  
+
+
+
+
+    
+/* *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+
+ }
+.container{
+  display: flex;
+  flex-direction: column;
+}
+.container-img{
+  height: 750px;
+  width: 100%;
+  background-image: url(./asstes/Bg\ Image.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+ 
+  
+ 
+}
+.container-border{
+  display: flex;
+  margin-top: 10px;
+  margin-left: 50px;
+  display: flex;
+  height: 70px;
+  justify-content: space-between;
+  align-items: center;
+  
+ 
+}
+.container-text-h1-border{
+  cursor: pointer;
+  height: 60px;
+  width: 200px;
+  color: white;
+ 
+}
+.container-text-border{
+  display: flex;
+  font-size: 20px;
+  margin-top: 5px;
+  color: rgb(255, 255, 255);
+  height: 60px;
+  width: 700px;
+ justify-content: space-evenly;
+
+
+}
+.container-button-border{
+  display: flex;
+  width: 300px;
+  height: 60px;
+  justify-content: space-evenly;
+}
+.container-button{
+  cursor: pointer;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 115px;
+  height: 37px;
+  border-radius: 8px;
+  background-color: #A0583C;
+  border: #A0583C;
+  color: white; */
